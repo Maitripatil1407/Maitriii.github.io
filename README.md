@@ -1,4 +1,3 @@
- # Maitriii.github.io
  - [Course Reflections](./Course_Reflections.md)
 -   [Bussiness Cases](./Bussiness_Cases.md)
 ## Portfolio
