@@ -1,5 +1,5 @@
  - [Course Reflections](./Course_Reflections.md)
--   [Bussiness Cases](./Bussiness_Cases.md)
+- [Bussiness Cases](./Bussiness_Cases.md)
 ## Portfolio
 
 ### Hello, I'm Maitri Patil👋
